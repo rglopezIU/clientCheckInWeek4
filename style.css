@@ -50,7 +50,7 @@
 .card {
     background: #ddb945;
     margin-bottom: 2em;
-    margin-top: 2em;
+    margin-top: 0.5em;
     max-height: 300px;
     flex: 1 1 200px;
     position: relative; /* to position items inside card */
